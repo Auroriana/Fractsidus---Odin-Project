@@ -35,7 +35,7 @@
 
 .landing-page {
     display: flex;
-    justify-content: ;
+    justify-content: space-around;
     align-items: center;
     gap: 70px;
     padding: 100px;
@@ -79,7 +79,6 @@
     margin-top: 10px;
     border-radius: 10px;
 }
-
 
 .img-landing {
     width: 100%;
