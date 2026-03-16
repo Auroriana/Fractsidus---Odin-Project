@@ -8,4 +8,4 @@ This was made in accoradance to The Odin Project specifically for the project ti
 
 All the images used in this project was from the game Wuthering Waves by Kuro Games~
 
-**Check them out!** [[Wuthtering Waves](https://wutheringwaves.kurogames.com/en/)]
+**Check them out!** [Wuthtering Waves](https://wutheringwaves.kurogames.com/en/)
