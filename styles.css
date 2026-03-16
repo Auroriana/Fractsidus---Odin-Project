@@ -120,6 +120,7 @@
 
 .member-image {
     max-width: 350px;
+    border-radius: 30px
 }
 
 .member-card {
@@ -137,6 +138,7 @@
 .member-role {
     font-size: 25px;
     font-style: italic;
+    font-weight: bold;
 }
 
 .member-desc {
