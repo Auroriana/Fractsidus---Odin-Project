@@ -5,6 +5,8 @@
 This was made in accoradance to The Odin Project specifically for the project titled "Landing Page"
 
 ## Attribution
+## A Project for the Odin Project
+**Check them out** [Odin Project](https://www.theodinproject.com)
 
 All the images used in this project was from the game Wuthering Waves by Kuro Games~
 
